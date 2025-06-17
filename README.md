@@ -5,9 +5,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 41.38 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 45.90 %
 >
-> ⏰ Updated on Sun, 01 Jun 2025 01:10:52 GMT
+> ⏰ Updated on Tue, 17 Jun 2025 13:07:55 GMT
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=ycc250303&show_icons=true&count_private=true' height='190'/>
