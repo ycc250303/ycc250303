@@ -3,7 +3,7 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ ] 72.42 %
 >
-> ⏰ Updated on Mon, 22 Sep 2025 07:53:56 GMT
+> ⏰ Updated on Mon, 22 Sep 2025 07:55:32 GMT
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ycc250303.ycc250303"/>
@@ -19,8 +19,8 @@
 ### 📊 My GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ycc250303&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" style="height: 240px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycc250303&layout=compact&hide=jupyter%20notebook&langs_count=20&cache_seconds=1800" style="height: 240px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ycc250303&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" style="height: 300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycc250303&layout=compact&hide=jupyter%20notebook&langs_count=20&cache_seconds=1800" style="height: 300px"/>
 </div>
 
 
