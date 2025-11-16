@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm ycc250303!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁ ] 87.14 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁ ] 87.42 %
 >
-> ⏰ Updated on Sat, 15 Nov 2025 01:40:51 GMT
+> ⏰ Updated on Sun, 16 Nov 2025 01:49:21 GMT
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ycc250303.ycc250303"/>
