@@ -19,7 +19,7 @@ const readme = `<h1>👋 Hi there, I'm ycc250303!</h1>
 > ⏰ Updated on ${new Date().toUTCString()}
 
 <div align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ycc250303.ycc250303)
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ycc250303/ycc250303&title=Visitors&edge_flat=false" alt="visitors"/>
 </div>
 
 ### 👨‍💻 About Me
@@ -32,8 +32,9 @@ const readme = `<h1>👋 Hi there, I'm ycc250303!</h1>
 ### 📊 My GitHub
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ycc250303&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ycc250303&layout=compact&hide=jupyter%20notebook&langs_count=20&cache_seconds=1800)
+  <img src="https://github-readme-stats.vercel.app/api?username=ycc250303&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycc250303&layout=compact&hide=jupyter%20notebook&langs_count=20&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 
