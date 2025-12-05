@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm ycc250303!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁ ] 92.52 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁ ] 92.62 %
 >
-> ⏰ Updated on Thu, 04 Dec 2025 16:30:03 GMT
+> ⏰ Updated on Fri, 05 Dec 2025 01:47:57 GMT
 
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ycc250303/ycc250303&title=Visitors&edge_flat=false" alt="visitors"/>
