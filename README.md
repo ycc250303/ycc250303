@@ -1,10 +1,10 @@
-
-!`</h1>`
+README.md updated successfully!
+!</h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 11.26 %
+> ⏳ Year Progress [ ▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 11.39 %
 >
-> ⏰ Updated on Wed, 11 Feb 2026 02:34:20 GMT
+> ⏰ Updated on Wed, 11 Feb 2026 13:51:13 GMT
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ycc250303.ycc250303" alt="Visitors"/>
@@ -20,8 +20,7 @@
 ### 📊 My GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ycc250303&show_icons=true&count_private=true&theme=radical&hide_border=false" height="192" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ycc250303&layout=compact&theme=radical&hide_border=false&hide=jupyter%20notebook&langs_count=10" height="192" alt="Top Languages"/>
+  <img src="https://github-readme-stats-phi-pied-71.vercel.app/api?username=ycc250303&show_icons=true&count_private=true&theme=radical&hide_border=false" height="192" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-phi-pied-71.vercel.app/api/top-langs?username=ycc250303&layout=compact&theme=radical&hide_border=false&hide=jupyter%20notebook&langs_count=10" height="192" alt="Top Languages"/>
 </div>
-
 ---
