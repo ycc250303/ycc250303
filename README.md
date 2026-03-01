@@ -1,8 +1,9 @@
-[!TIP]
+<h1>👋 Hi there, I'm ycc250303!</h1>
 
-> ⏳ Year Progress [ ▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 16.19 %
+> [!TIP]
+> ⏳ Year Progress [ ▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ] 16.30 %
 >
-> ⏰ Updated on Sun, 01 Mar 2026 02:33:06 GMT
+> ⏰ Updated on Sun, 01 Mar 2026 12:07:52 GMT
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ycc250303.ycc250303" alt="Visitors"/>
