@@ -38,4 +38,3 @@ const readme = `<h1>👋 Hi there, I'm ycc250303!</h1>
 </div>
 `
 fs.writeFileSync('README.md', readme)
-console.log('README.md updated successfully!')
